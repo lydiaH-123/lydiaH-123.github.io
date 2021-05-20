@@ -1,8 +1,8 @@
 #banner{
-    background-color: antiquewhite;
-    height:100px;
+    background-color:rgb(109, 62, 5);
+    height:200px;
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:arial;
 }
 body
 {
@@ -11,10 +11,12 @@ body
 }
 
 h1{
+    margin: 0px;
+    line-height: 200px;
     font-size: 18px;
 }
 #navBar{
-    text-align: center;
+    text-align:;
 }
 
 a{
